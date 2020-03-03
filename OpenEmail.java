@@ -24,7 +24,7 @@ import javax.swing.JTextArea;
 /**
  * Class that opens the emails fetched from the logged in accounts inbox.
  * 
- * @author Ivar Lund ivlu1468 ivarnilslund@gmail.com
+ * @author Ivar Lund, ivarnilslund@gmail.com
  *
  */
 @SuppressWarnings("serial")
