@@ -1,15 +1,3 @@
-
-/**
- * Implementation of a Google email sending client using javax.mail. 
- * Uses SMTP protocol and TLS encryption. Implemented functionality includes an inbox, 
- * composing email with or without attachments, sending emails and downloading attachments
- * from received emails.
- * 
- * @author Ivar Lund
- * ivlu1468
- * ivarnilslund@gmail.com
- *
- */
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Component;
