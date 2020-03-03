@@ -6,7 +6,7 @@ import javax.mail.Store;
 /**
  * Class to fetch emails in the inbox of logged in account.
  * 
- * @author Ivar Lund ivlu1468 ivarnilslund@gmail.com
+ * @author Ivar Lund, ivarnilslund@gmail.com
  *
  */
 public class EmailFetcher {
