@@ -30,7 +30,7 @@ import javax.swing.JTextField;
 /**
  * Class for sending email. Sets logged in account as predefined sender.
  * 
- * @author Ivar Lund ivlu1468 ivarnilslund@gmail.com
+ * @author Ivar Lund, ivarnilslund@gmail.com
  *
  */
 @SuppressWarnings("serial")
