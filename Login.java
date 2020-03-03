@@ -8,7 +8,7 @@ import javax.swing.JTextField;
  * Login class of email client program. Provides user credentials username &
  * password.
  * 
- * @author Ivar Lund ivlu1468 ivarnilslund@gmail.com
+ * @author Ivar Lund, ivarnilslund@gmail.com
  *
  */
 @SuppressWarnings("serial")
