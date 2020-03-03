@@ -21,7 +21,7 @@ import javax.swing.JScrollPane;
  * Main class and GUI. Puts together the separate components functionally and
  * visually.
  * 
- * @author Ivar Lund ivlu1468 ivarnilslund@gmail.com
+ * @author Ivar Lund, ivarnilslund@gmail.com
  * 
  */
 @SuppressWarnings("serial")
